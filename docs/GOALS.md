@@ -36,19 +36,16 @@
 ## 30 Days
 
 [] Make a documentation contribution
-[] Read several company engineering blogs
+[] Read several company engineering events
 
 ## 60 Days
 
 [] Identify and improve one team process
 [] Build a useful utility for the team
-[] Write a blog post for the company engineering blog
-[] Talk with my manager about current and possible future diversity & inclusion efforts
 
 ## 90 Days
 
 [] Present at a lunch & learn
-[] Create a plan for driving blog contributions
 [] Shadow someone from a department I work closely with
 
 # Personal Goals
@@ -57,6 +54,7 @@
 
 [] Have coffee/lunch with someone on my direct team
 [] Attend a work social event / ERG meeting
+[] Attend a meetup related to work
 
 ## 60 Days
 
