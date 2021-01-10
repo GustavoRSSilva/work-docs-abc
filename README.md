@@ -1,2 +1,9 @@
 # ab-work-docs
-Ab Work documentation
+
+Applied Blockchain Work documentation
+
+includes: 
+- Brag journal
+- 30/60/90 day goals
+
+
