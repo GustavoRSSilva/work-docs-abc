@@ -5,7 +5,7 @@
 - [ ] Understand my manager’s expectations of me in my role
 - [ ] Understand the team’s scope of work
 - [ ] Understand how customers use all part of the company’s software
-- [ ] Understand the roles of the members of my team
+- [x] Understand the roles of the members of my team
 - [ ] Understand the team’s processes (meetings, git workflow, code review, testing, deployment, etc.)
 - [ ] Understand my weakest competencies for the role
 - [ ] Understand who to talk to for different question domains (tech, process, HR, culture, etc.)
