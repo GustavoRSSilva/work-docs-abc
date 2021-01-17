@@ -6,7 +6,7 @@
 - [ ] Understand the team’s scope of work
 - [ ] Understand how customers use all part of the company’s software
 - [x] Understand the roles of the members of my team
-- [ ] Understand the team’s processes (meetings, git workflow, code review, testing, deployment, etc.)
+- [x] Understand the team’s processes (meetings, git workflow, code review, testing, deployment, etc.)
 - [ ] Understand my weakest competencies for the role
 - [ ] Understand who to talk to for different question domains (tech, process, HR, culture, etc.)
 - [ ] Understand the organization hierarchy and all departments in the company
@@ -52,7 +52,7 @@
 
 ## 30 Days
 
-- [ ] Have coffee/lunch with someone on my direct team
+- [x] Have coffee/lunch with someone on my direct team
 - [ ] Attend a work social event / ERG meeting
 - [ ] Attend a meetup related to work
 
