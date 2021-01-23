@@ -8,11 +8,11 @@
 - [x] Understand the roles of the members of my team
 - [x] Understand the team’s processes (meetings, git workflow, code review, testing, deployment, etc.)
 - [ ] Understand my weakest competencies for the role
-- [ ] Understand who to talk to for different question domains (tech, process, HR, culture, etc.)
-- [ ] Understand the organization hierarchy and all departments in the company
+- [x] Understand who to talk to for different question domains (tech, process, HR, culture, etc.)
+- [x] Understand the organization hierarchy and all departments in the company
 - [ ] Understand how much time during the work week I can use for professional
-- [ ] Complete required onboarding trainings
-- [ ] Setup my dev environment
+- [x] Complete required onboarding trainings
+- [x] Setup my dev environment
 - [ ] Voice one thought or question during every meeting
 - [ ] Make at least one code contribution every week
 
