@@ -3,7 +3,7 @@
 ## 30 Days
 
 - [ ] Understand my manager’s expectations of me in my role
-- [ ] Understand the team’s scope of work
+- [x] Understand the team’s scope of work
 - [ ] Understand how customers use all part of the company’s software
 - [x] Understand the roles of the members of my team
 - [x] Understand the team’s processes (meetings, git workflow, code review, testing, deployment, etc.)
