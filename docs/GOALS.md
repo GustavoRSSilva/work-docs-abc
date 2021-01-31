@@ -7,7 +7,6 @@
 - [ ] Understand how customers use all part of the company’s software
 - [x] Understand the roles of the members of my team
 - [x] Understand the team’s processes (meetings, git workflow, code review, testing, deployment, etc.)
-<<<<<<< HEAD
 - [x] Understand my weakest competencies for the role (devOps, docker, k8s)
 - [x] Understand who to talk to for different question domains (tech, process, HR, culture, etc.)
 - [x] Understand the organization hierarchy and all departments in the company
@@ -16,16 +15,6 @@
 - [x] Setup my dev environment
 - [x] Voice one thought or question during every meeting
 - [x] Make at least one code contribution every week
-=======
-- [ ] Understand my weakest competencies for the role
-- [x] Understand who to talk to for different question domains (tech, process, HR, culture, etc.)
-- [x] Understand the organization hierarchy and all departments in the company
-- [ ] Understand how much time during the work week I can use for professional
-- [x] Complete required onboarding trainings
-- [x] Setup my dev environment
-- [ ] Voice one thought or question during every meeting
-- [ ] Make at least one code contribution every week
->>>>>>> 528f60ab4db90915d6419d540c78fccc51e9292a
 
 ## 60 Days
 
