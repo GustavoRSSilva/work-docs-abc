@@ -7,20 +7,19 @@
 ## Goals for next year:
 
 ## Projects:
-- Voice my opinion on the best practices of agile methodologies. Guide on how to divide the team as it gets bigger. (08-01-2021)
-- Implemented the new modal (trade instructions modal) - introduced the modal in the review, with great results (23-01-2021)
-- Deliver the first modal from Norske.(https://appliedblockchain.atlassian.net/browse/DSX-2799)
+- Voice my opinion on the best practices of agile methodologies. Guide on how to divide the team as it gets bigger. (Week 1)
+- Implemented the new modal (trade instructions modal) - introduced the modal in the review, with great results (https://appliedblockchain.atlassian.net/browse/DSX-2799) (Week 3)
 
 ## Collaboration & mentorship:
-- Guide Vince on the first tickets and help him understand and setup the project (https://appliedblockchain.atlassian.net/browse/DSX-2903).
+- Guide Vince on the first tickets and help him understand and setup the project (https://appliedblockchain.atlassian.net/browse/DSX-2903). (Week 4)
 
 ## Design & documentation:
-- Developer new business entity Norske. (15-01-2021)
+- Developer new business entity Norske. (Week 3)
 
 ## Company building:
-- Lunch with colleagues (12-01-2021)
-- Start Agile Guide inside the company.
-- Start infra group inside the company.
+- Lunch with colleagues (Week 2)
+- Start Agile Guide inside the company. (Week 4)
+- Start infra group inside the company. (Week 4)
 
 ## What you learned:
 
