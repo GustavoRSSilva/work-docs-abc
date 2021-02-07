@@ -9,9 +9,11 @@
 ## Projects:
 - Voice my opinion on the best practices of agile methodologies. Guide on how to divide the team as it gets bigger. (Week 1)
 - Implemented the new modal (trade instructions modal) - introduced the modal in the review, with great results (https://appliedblockchain.atlassian.net/browse/DSX-2799) (Week 3)
+-  Implemented the new modal (trade instructions accept and fill modal) - introduced the modal in the review, with great results (https://appliedblockchain.atlassian.net/browse/DSX-2718, https://appliedblockchain.atlassian.net/browse/DSX-2720) (Week 5)
 
 ## Collaboration & mentorship:
 - Guide Vince on the first tickets and help him understand and setup the project (https://appliedblockchain.atlassian.net/browse/DSX-2903). (Week 4)
+   Guide Vince on the second tickets and help him , and pic up his slack, after he left the team (https://appliedblockchain.atlassian.net/browse/DSX-2718). (Week 5)
 
 ## Design & documentation:
 - Developer new business entity Norske. (Week 3)
@@ -22,7 +24,9 @@
 - Start infra group inside the company. (Week 4)
 
 ## What you learned:
+- Cue language. (Week 5)
 
 ## Outside of work:
+- Docker deep dive training. (week 4)
 
 ## General prompts:

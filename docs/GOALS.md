@@ -35,12 +35,12 @@
 
 ## 30 Days
 
-- [ ] Make a documentation contribution
-- [ ] Read several company engineering events
+- [x] Make a documentation contribution
+- [x] Read several company engineering events
 
 ## 60 Days
 
-- [ ] Identify and improve one team process
+- [x] Identify and improve one team process
 - [ ] Build a useful utility for the team
 
 ## 90 Days
