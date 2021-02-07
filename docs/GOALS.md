@@ -2,9 +2,9 @@
 
 ## 30 Days
 
-- [ ] Understand my manager’s expectations of me in my role
+- [x] Understand my manager’s expectations of me in my role
 - [x] Understand the team’s scope of work
-- [ ] Understand how customers use all part of the company’s software
+- [x] Understand how customers use all part of the company’s software
 - [x] Understand the roles of the members of my team
 - [x] Understand the team’s processes (meetings, git workflow, code review, testing, deployment, etc.)
 - [x] Understand my weakest competencies for the role (devOps, docker, k8s)
@@ -19,11 +19,11 @@
 ## 60 Days
 
 - [ ] Understand how to perform at an exceptional level
-- [ ] Understand the software design philosophies being used
-- [ ] Research/practice one of my weakest competencies
+- [x] Understand the software design philosophies being used
+- [x] Research/practice one of my weakest competencies
 - [x] Read one technical book relevant to my role
 - [ ] Be comfortable navigating all parts of the codebase
-- [ ] Complete at least one medium-sized task
+- [x] Complete at least one medium-sized task
 
 ## 90 Days
 
