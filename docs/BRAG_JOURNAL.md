@@ -13,7 +13,8 @@
 
 ## Collaboration & mentorship:
 - Guide Vince on the first tickets and help him understand and setup the project (https://appliedblockchain.atlassian.net/browse/DSX-2903). (Week 4)
-   Guide Vince on the second tickets and help him , and pic up his slack, after he left the team (https://appliedblockchain.atlassian.net/browse/DSX-2718). (Week 5)
+- Guide Vince on the second tickets and help him , and pic up his slack, after he left the team (https://appliedblockchain.atlassian.net/browse/DSX-2718). (Week 5)
+- PSM1 training . (Week 6)
 
 ## Design & documentation:
 - Developer new business entity Norske. (Week 3)
