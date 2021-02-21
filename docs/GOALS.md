@@ -18,7 +18,7 @@
 
 ## 60 Days
 
-- [ ] Understand how to perform at an exceptional level
+- [x] Understand how to perform at an exceptional level
 - [x] Understand the software design philosophies being used
 - [x] Research/practice one of my weakest competencies
 - [x] Read one technical book relevant to my role
