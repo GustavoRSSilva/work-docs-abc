@@ -28,8 +28,8 @@
 ## 90 Days
 
 - [ ] Discuss my progress with my manager
-- [ ] Create plan for addressing all of my weakest competencies
-- [ ] Be comfortable picking up engineering tasks of any size
+- [x] Create plan for addressing all of my weakest competencies
+- [x] Be comfortable picking up engineering tasks of any size
 
 # Initiative Goals
 
@@ -46,7 +46,7 @@
 ## 90 Days
 
 - [ ] Present at a lunch & learn
-- [ ] Shadow someone from a department I work closely with
+- [x] Shadow someone from a department I work closely with
 
 # Personal Goals
 
