@@ -13,9 +13,11 @@
 
 ## Collaboration & mentorship:
 - Guide Vince on the first tickets and help him understand and setup the project (https://appliedblockchain.atlassian.net/browse/DSX-2903). (Week 4)
-- Guide Vince on the second tickets and help him , and pic up his slack, after he left the team (https://appliedblockchain.atlassian.net/browse/DSX-2718). (Week 5)
-- PSM1 training . (Week 6)
+- Guide Vince on the second tickets and help him , and pick up his slack, after he left the team (https://appliedblockchain.atlassian.net/browse/DSX-2718). (Week 5)
+- Agile meeting - PSM1 training. (Week 6)
 - Take initiative picking up the frontend work left by Mirek (https://appliedblockchain.atlassian.net/browse/DSX-3155). (Week 7)
+- Help Dmitry on his ticket (https://appliedblockchain.atlassian.net/browse/DSX-2900). (week 8)
+- Agile meeting - PSM1 training (Week 8)
 
 ## Design & documentation:
 - Developer new business entity Norske. (Week 3)
@@ -32,3 +34,4 @@
 - Docker deep dive training. (week 4)
 
 ## General prompts:
+- Vince props on the work I did with him (Week 6)
