@@ -10,6 +10,7 @@
 - Voice my opinion on the best practices of agile methodologies. Guide on how to divide the team as it gets bigger. (Week 1)
 - Implemented the new modal (trade instructions modal) - introduced the modal in the review, with great results (https://appliedblockchain.atlassian.net/browse/DSX-2799) (Week 3)
 -  Implemented the new modal (trade instructions accept and fill modal) - introduced the modal in the review, with great results (https://appliedblockchain.atlassian.net/browse/DSX-2718, https://appliedblockchain.atlassian.net/browse/DSX-2720) (Week 5)
+-  On my SLA day, took the initiative and opened a PR for a BUG (week 8)
 
 ## Collaboration & mentorship:
 - Guide Vince on the first tickets and help him understand and setup the project (https://appliedblockchain.atlassian.net/browse/DSX-2903). (Week 4)
