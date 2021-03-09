@@ -19,6 +19,7 @@
 - Take initiative picking up the frontend work left by Mirek (https://appliedblockchain.atlassian.net/browse/DSX-3155). (Week 7)
 - Help Dmitry on his ticket (https://appliedblockchain.atlassian.net/browse/DSX-2900). (week 8)
 - Agile meeting - PSM1 training (Week 8)
+- Help Dmitry on the accept modal (https://appliedblockchain.atlassian.net/browse/DSX-2900). (Week 9)
 
 ## Design & documentation:
 - Developer new business entity Norske. (Week 3)
@@ -27,12 +28,13 @@
 - Lunch with colleagues (Week 2)
 - Start Agile Guide inside the company. (Week 4)
 - Start infra group inside the company. (Week 4)
+- Start Agile meeting/beers at the end of the week. (Week 9)
 
 ## What you learned:
 - Cue language. (Week 5)
 
 ## Outside of work:
 - Docker deep dive training. (week 4)
-
+- Meeting Speakers out Engendering managers (week 9)
 ## General prompts:
 - Vince props on the work I did with him (Week 6)
