@@ -53,8 +53,8 @@
 ## 30 Days
 
 - [x] Have coffee/lunch with someone on my direct team
-- [ ] Attend a work social event / ERG meeting
-- [ ] Attend a meetup related to work
+- [x] Attend a work social event / ERG meeting
+- [x] Attend a meetup related to work
 
 ## 60 Days
 

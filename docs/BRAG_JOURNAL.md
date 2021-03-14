@@ -11,6 +11,7 @@
 - Implemented the new modal (trade instructions modal) - introduced the modal in the review, with great results (https://appliedblockchain.atlassian.net/browse/DSX-2799) (Week 3)
 -  Implemented the new modal (trade instructions accept and fill modal) - introduced the modal in the review, with great results (https://appliedblockchain.atlassian.net/browse/DSX-2718, https://appliedblockchain.atlassian.net/browse/DSX-2720) (Week 5)
 -  On my SLA day, took the initiative and opened a PR for a BUG (week 8)
+-  Became assigned support (Week 10)
 
 ## Collaboration & mentorship:
 - Guide Vince on the first tickets and help him understand and setup the project (https://appliedblockchain.atlassian.net/browse/DSX-2903). (Week 4)
@@ -20,6 +21,7 @@
 - Help Dmitry on his ticket (https://appliedblockchain.atlassian.net/browse/DSX-2900). (week 8)
 - Agile meeting - PSM1 training (Week 8)
 - Help Dmitry on the accept modal (https://appliedblockchain.atlassian.net/browse/DSX-2900). (Week 9)
+- Helped Ahmit Kumar setting up the project running locally (Week 10)
 
 ## Design & documentation:
 - Developer new business entity Norske. (Week 3)
@@ -36,5 +38,8 @@
 ## Outside of work:
 - Docker deep dive training. (week 4)
 - Meeting Speakers out Engendering managers (week 9)
+  
 ## General prompts:
 - Vince props on the work I did with him (Week 6)
+- Firgun (Week 9)
+  
