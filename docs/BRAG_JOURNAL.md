@@ -42,4 +42,5 @@
 ## General prompts:
 - Vince props on the work I did with him (Week 6)
 - Firgun (Week 9)
+- Helped Vince run docker locally (got promp) (Week 11)
   
