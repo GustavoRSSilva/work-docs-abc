@@ -41,7 +41,7 @@
 ## 60 Days
 
 - [x] Identify and improve one team process
-- [ ] Build a useful utility for the team
+- [x] Build a useful utility for the team
 
 ## 90 Days
 
