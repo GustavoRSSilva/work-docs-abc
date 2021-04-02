@@ -13,6 +13,7 @@
 -  On my SLA day, took the initiative and opened a PR for a BUG (week 8)
 -  Became assigned support (Week 10)
 -  Support (7am) (week 12)
+-  Refactor Norske e2e testing (week 13)
 
 ## Collaboration & mentorship:
 - Guide Vince on the first tickets and help him understand and setup the project (https://appliedblockchain.atlassian.net/browse/DSX-2903). (Week 4)
