@@ -3,6 +3,9 @@
 ## Goals for this year:
 - Promoted to tech leader
 - Promoted to line manager
+- PSPO
+- CKAD
+- AWS SSA02
 
 ## Goals for next year:
 
@@ -25,6 +28,7 @@
 - Help Dmitry on the accept modal (https://appliedblockchain.atlassian.net/browse/DSX-2900). (Week 9)
 - Helped Ahmit Kumar setting up the project running locally (Week 10)
 - PR to infra (Safe mode to a business entity) (week 12)
+- Help Amit deploying the project locally
 
 ## Design & documentation:
 - Developer new business entity Norske. (Week 3)
