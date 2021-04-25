@@ -22,7 +22,7 @@
 - [x] Understand the software design philosophies being used
 - [x] Research/practice one of my weakest competencies
 - [x] Read one technical book relevant to my role
-- [ ] Be comfortable navigating all parts of the codebase
+- [x] Be comfortable navigating all parts of the codebase
 - [x] Complete at least one medium-sized task
 
 ## 90 Days
