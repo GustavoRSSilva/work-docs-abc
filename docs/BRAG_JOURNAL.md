@@ -31,6 +31,7 @@
 - PR to infra (Safe mode to a business entity) (week 12)
 - Help Amit deploying the project locally (week 14)
 - Help Filipe on various parts of the project (week 17)
+- Help Mirek completing the front end part of his tickets (week 18)
 
 ## Design & documentation:
 - Developer new business entity Norske. (Week 3)
