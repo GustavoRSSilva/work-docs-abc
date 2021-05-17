@@ -18,6 +18,8 @@
 -  Support (7am) (week 12)
 -  Refactor Norske e2e testing (week 13)
 -  Deals null price (week15)
+-  Support fill in for CTO (week 19)
+-  Fix Mirek's bug (week 19)
 
 ## Collaboration & mentorship:
 - Guide Vince on the first tickets and help him understand and setup the project (https://appliedblockchain.atlassian.net/browse/DSX-2903). (Week 4)
