@@ -20,6 +20,7 @@
 -  Deals null price (week15)
 -  Support fill in for CTO (week 19)
 -  Fix Mirek's bug (week 19)
+-  Unify both deplyment methods (week 20)
 
 ## Collaboration & mentorship:
 - Guide Vince on the first tickets and help him understand and setup the project (https://appliedblockchain.atlassian.net/browse/DSX-2903). (Week 4)
@@ -34,6 +35,7 @@
 - Help Amit deploying the project locally (week 14)
 - Help Filipe on various parts of the project (week 17)
 - Help Mirek completing the front end part of his tickets (week 18)
+- Help Daily Filipe (week 20)
 
 ## Design & documentation:
 - Developer new business entity Norske. (Week 3)
