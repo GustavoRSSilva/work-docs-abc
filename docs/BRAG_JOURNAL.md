@@ -20,7 +20,8 @@
 -  Deals null price (week15)
 -  Support fill in for CTO (week 19)
 -  Fix Mirek's bug (week 19)
--  Unify both deplyment methods (week 20)
+-  Unify both deployment methods (week 20)
+-  Update cue k8s (week 21)
 
 ## Collaboration & mentorship:
 - Guide Vince on the first tickets and help him understand and setup the project (https://appliedblockchain.atlassian.net/browse/DSX-2903). (Week 4)
