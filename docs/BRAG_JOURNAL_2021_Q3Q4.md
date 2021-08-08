@@ -10,9 +10,9 @@
 ## Goals for next year:
 
 ## Projects:
+- Take the initiative to refactor the old products in the f/e
 
 ## Collaboration & mentorship:
-
 
 ## Design & documentation:
 - Implement Fill with any instrument (week 30)
