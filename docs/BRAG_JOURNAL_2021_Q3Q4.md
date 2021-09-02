@@ -24,5 +24,6 @@
 ## Outside of work:
   
 ## General prompts:
+- AWS CCP (Week 32)
 
   
