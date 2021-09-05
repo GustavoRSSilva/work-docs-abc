@@ -13,6 +13,7 @@
 - Take the initiative to refactor the old products in the f/e
 
 ## Collaboration & mentorship:
+- Help Hbert and William on boarding (week 31)
 
 ## Design & documentation:
 - Implement Fill with any instrument (week 30)
@@ -20,6 +21,7 @@
 ## Company building:
 
 ## What you learned:
+- AWS (Week 30)
 
 ## Outside of work:
   
