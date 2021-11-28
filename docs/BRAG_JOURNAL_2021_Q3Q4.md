@@ -18,6 +18,7 @@
 
 ## Design & documentation:
 - Implement Fill with any instrument (week 30)
+- Work on admin page.
 
 ## Company building:
 - Helped on the meeting by providing assistance to Tudor
