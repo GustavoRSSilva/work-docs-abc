@@ -21,7 +21,8 @@
 - Work on admin page.
 
 ## Company building:
-- Helped on the meeting by providing assistance to Tudor
+- Helped on the meeting by providing assistance to Tudor.
+- December performance cycle
 
 ## What you learned:
 - Node V8
