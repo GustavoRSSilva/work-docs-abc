@@ -22,7 +22,7 @@
 
 ## Company building:
 - Helped on the meeting by providing assistance to Tudor.
-- December performance cycle
+- December performance cycle 2x
 
 ## What you learned:
 - Node V8
