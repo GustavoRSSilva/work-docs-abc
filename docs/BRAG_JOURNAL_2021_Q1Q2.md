@@ -3,6 +3,9 @@
 ## Goals for this year:
 - Promoted to tech leader
 - Promoted to line manager
+- PSPO
+- CKAD
+- AWS SSA02
 
 ## Goals for next year:
 
@@ -14,6 +17,11 @@
 -  Became assigned support (Week 10)
 -  Support (7am) (week 12)
 -  Refactor Norske e2e testing (week 13)
+-  Deals null price (week15)
+-  Support fill in for CTO (week 19)
+-  Fix Mirek's bug (week 19)
+-  Unify both deployment methods (week 20)
+-  Update cue k8s (week 21)
 
 ## Collaboration & mentorship:
 - Guide Vince on the first tickets and help him understand and setup the project (https://appliedblockchain.atlassian.net/browse/DSX-2903). (Week 4)
@@ -25,9 +33,14 @@
 - Help Dmitry on the accept modal (https://appliedblockchain.atlassian.net/browse/DSX-2900). (Week 9)
 - Helped Ahmit Kumar setting up the project running locally (Week 10)
 - PR to infra (Safe mode to a business entity) (week 12)
+- Help Amit deploying the project locally (week 14)
+- Help Filipe on various parts of the project (week 17)
+- Help Mirek completing the front end part of his tickets (week 18)
+- Help Daily Filipe (week 20)
 
 ## Design & documentation:
 - Developer new business entity Norske. (Week 3)
+- K8s infra (week 15)
 
 ## Company building:
 - Lunch with colleagues (Week 2)
@@ -37,6 +50,8 @@
 
 ## What you learned:
 - Cue language. (Week 5)
+- Docker (week 5)
+- K8s (week 15)
 
 ## Outside of work:
 - Docker deep dive training. (week 4)
