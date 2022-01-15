@@ -22,12 +22,12 @@
 - [x] Understand the software design philosophies being used
 - [x] Research/practice one of my weakest competencies
 - [x] Read one technical book relevant to my role
-- [ ] Be comfortable navigating all parts of the codebase
+- [x] Be comfortable navigating all parts of the codebase
 - [x] Complete at least one medium-sized task
 
 ## 90 Days
 
-- [ ] Discuss my progress with my manager
+- [x] Discuss my progress with my manager
 - [x] Create plan for addressing all of my weakest competencies
 - [x] Be comfortable picking up engineering tasks of any size
 
@@ -45,7 +45,7 @@
 
 ## 90 Days
 
-- [ ] Present at a lunch & learn
+- [x] Present at a lunch & learn
 - [x] Shadow someone from a department I work closely with
 
 # Personal Goals
@@ -58,9 +58,9 @@
 
 ## 60 Days
 
-- [ ] Have coffee/lunch with an engineer on another team
+- [x] Have coffee/lunch with an engineer on another team
 
 ## 90 Days
 
-- [ ] Have coffee/lunch with a non-engineer
+- [x] Have coffee/lunch with a non-engineer
 
