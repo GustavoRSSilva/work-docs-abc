@@ -18,24 +18,20 @@
 
 ## Design & documentation:
 - Implement Fill with any instrument (week 30)
+- Work on admin page.
 
 ## Company building:
-- Helped on the meeting by providing assistance to Tudor
+- Helped on the meeting by providing assistance to Tudor.
+- December performance cycle
 
 ## What you learned:
-<<<<<<< HEAD
 - Node V8
-=======
 - AWS (Week 30)
->>>>>>> a5ea988ff4c77cd1dc986a910b4c37b97dc13ac3
 
 ## Outside of work:
   
 ## General prompts:
-<<<<<<< HEAD
-- All the abc shell team, specially Patrick, for his great work.
-=======
 - AWS CCP (Week 32)
->>>>>>> a5ea988ff4c77cd1dc986a910b4c37b97dc13ac3
+- All the abc shell team, specially Patrick, for his great work.
 
   
