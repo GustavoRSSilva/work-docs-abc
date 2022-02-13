@@ -52,6 +52,8 @@
 - Cue language. (Week 5)
 - Docker (week 5)
 - K8s (week 15)
+- Node V8
+- AWS (Week 30)
 
 ## Outside of work:
 - Docker deep dive training. (week 4)
@@ -62,4 +64,6 @@
 - Vince props on the work I did with him (Week 6)
 - Firgun (Week 9)
 - Helped Vince run docker locally (got promp) (Week 11)
+- AWS CCP (Week 32)
+- All the abc shell team, specially Patrick, for his great work.
   
